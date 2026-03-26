@@ -25,7 +25,7 @@ Estou cursando [Sistemas da Informação] na Unifacisa e focado em construir sol
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MikasDev&theme=radical&mode=weekly" />
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=mayke-willyan&theme=radical&mode=weekly" />
 </div>
 
 ---
