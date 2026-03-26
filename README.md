@@ -1,4 +1,4 @@
-# Olá, eu sou o [Mayke]! 👋
+# Olá, eu sou Mayke! 👋
 
 ### 👨‍💻 Desenvolvedor Backend & Entusiasta de IoT
 
