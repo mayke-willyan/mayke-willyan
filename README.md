@@ -11,6 +11,9 @@ Estou cursando [Sistemas da Informação] na Unifacisa e focado em construir sol
 <div id="header" align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" alt="Java" />
+
 </div>
 
 ---
